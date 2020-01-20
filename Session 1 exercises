@@ -1,0 +1,15 @@
+Exercise 1
+Assign the numeral 4 to three different variables, each a different class object type (str, int, and float).
+Output the variables on your terminal.
+
+Exercise 2
+Concatenate the following elements and output it on your terminal: 173, AGCT, ~@@^&@, 5.4651.
+
+Exercise 3
+Output the following elements on three seperate lines on your terminal using one print statement: 854, Latency, Error.
+
+Exercise 4
+What is the remainder of the length of CGATGCAGTGCAGCG divided by 7? Output the value on your terminal.
+
+Exercise 5
+Concatenate the following four times without using the addition operand: CGATGCAG. Output the result on your terminal.
