@@ -1,0 +1,34 @@
+Exercise 1
+#Output the following DNA fragments as one contiguous sequence on your terminal using variables.
+#Fragments: AGTCCACC, AAAA, GCGC, AGTGGCAGAC, TAA
+#Hint: Use variables
+
+#Exercise 2
+#Take the following 'corrupted' DNA sequence and 'fix it'.
+#Output the sequence on your terminal.
+#Corrupted DNA: aGccAgTg153aaWQQD45GctATGcaTA
+#Hint 1: Use string slicing
+#Hint 2: The final sequence should something like: ATGCAGTGGACCAAGACA
+
+#Exercise 3
+#There is an unique amino acid motif, WWCYC, which is important in the function
+#of peptide X.
+#Output the starting and ending positions of the motif on your terminal.
+#Peptide X: MYKLIHMLNWNWWLAIEQQALAWWCYCWVMNNDEKCYWPIIYQDDNMLAWLQNQKKLICCITATL
+#Hint 1: Try to write the script in 2 lines (not including the initial Peptide X
+#variable assignment)
+#Hint 2: Remember the str() function converts int to str
+
+#Exercise 4
+#Write a script that creates 'mini' forward and reverse primers for the following
+#DNA sequence. The primers should be 10 base pairs in length. Output the primers
+#on your terminal from the 5' to 3' direction.
+#DNA sequence: AGCTCCGGACGTAGCGACTTAAGGGCCTTATATCACGAAAGTTTCGACTAATGCAGGGATCTAG
+#Hint 1: Negative numbers are used to count backwards in string slicing
+#for example, -1 denotes the last letter in a string of letters
+#Hint 2: str[::-1] reverses a string
+#Hint 3: Remember, strings are case-sensitive
+
+#Exercise 5
+#Write a script that calculates the GC content for any DNA sequence.
+#Output the percentage on your terminal.
