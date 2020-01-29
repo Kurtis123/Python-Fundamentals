@@ -8,3 +8,7 @@ Write a function that converts Farenheit to Celsius. Output the temperature on y
 Do not hard-code the temperature input.
 
 Exercise 3
+Write a function that calculates the GC content of any nucleotide sequence. Output the GC content on your terminal.
+Do not hard-code the sequence input.
+
+Exercise 4
