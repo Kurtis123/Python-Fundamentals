@@ -3,3 +3,8 @@ Write a script that asks the user to enter their birth month (number value) and 
 on an even or odd month.
 Example output: You were born on an 'even' month!
 
+Exercise 2
+Write a function that converts Farenheit to Celsius. Output the temperature on your terminal.
+Do not hard-code the temperature input.
+
+Exercise 3
