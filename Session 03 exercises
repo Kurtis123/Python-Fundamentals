@@ -1,1 +1,2 @@
-etetet
+Exercise 1
+Write a script that outputs the word 'positive' on your terminal if a DNA sequence begins with ATGCCC and 'negative' if not.
