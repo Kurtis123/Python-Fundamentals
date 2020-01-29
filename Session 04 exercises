@@ -12,3 +12,15 @@ Write a function that calculates the GC content of any nucleotide sequence. Outp
 Do not hard-code the sequence input.
 
 Exercise 4
+Write a function that concatenates any three strings. Output the string on your terminal.
+Do not hard-code the inputs.
+
+Exercise 5
+Write a script that tells you whether a DNA sequence is short, medium, or long in length. 
+And if the GC-content is 60% or greater, it also tells you the sequence is GC rich. Output on your terminal. 
+Do not hard-code the input.
+Use the following criteria:
+long sequence - greater than or equal to 25 base pairs
+medium sequence - greater than or equal to 12 base pairs
+short sequence - greater than or equal to 1 base pair
+Hint: invoke the function you used for Exercise 3
