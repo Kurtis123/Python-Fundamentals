@@ -7,4 +7,15 @@ For example:
 original line: test_string
 line in new file: test_string_ID.W
 
+Exercise 3
+Take a look at 'S05_exercise_3.csv' under 'Exercises related'. It is a comma-seperated text file that contains 300 RNA-seq reads 
+exported from Geneious Prime. Each line contains the sequence ID followed by the sequence itself, seperated by a comma.
+Parse the file and output each sequence on your terminal. Do not output the ID.
 
+Exercise 4
+Using the same file, this time output the complement of each sequence on your terminal. Do not use the string method replace().
+Hint 1: Remember loops and conditionals can be nested and strings are iterable objects.
+Hint 2: If the nucleotide base is N (ambiguous) its complement is N as well
+
+Exercise 5
+Re-write your script in exercise 4 incorporating one or more custom functions.
