@@ -1,0 +1,10 @@
+Exercise 1
+Output a text file with five total lines. The lines can contain anything.
+
+Exercise 2
+Parse each line in the file you created and add '_ID.W' to the end of each line, and output each line into a new text file.
+For example:
+original line: test_string
+line in new file: test_string_ID.W
+
+
