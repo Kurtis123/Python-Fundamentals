@@ -1,0 +1,9 @@
+Exercise 1
+Ask the user to input 'S06_exercise_1.txt' and use 'try and except' to exit out the program if the user enters an invalid entry.
+
+Exercise 2
+Each line in 'S06_exercise_2.txt' contains an identifier code to an unknown sample. Each part of the identifier code is seperated 
+by '-'. Output on your terminal in list form each section of the identifier code.
+For example: aaaa-1111-2222-bbbb should be outputted as ['aaaa', '1111', '2222', 'bbbb']
+Hint: Recall what split() does
+
