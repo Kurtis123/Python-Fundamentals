@@ -1,0 +1,30 @@
+Exercise 1
+Re-write the following script as a list comprehension:
+list_a = ['apples', 'oranges', 'apricots', 'bannanas', 5, 12, 'pineapples']
+list_b = []
+for ele in list_a:
+    if type(ele) == type(10):
+        if ele / 2 == 6:
+            list_b.append(ele/3)
+
+Exercise 2
+Write a script that asks the user to input anything and outputs on your terminal only the numeric values.
+For example
+User input: 4hssi80 293 $@19ksfa;s
+Output should be: 48029319
+
+Exercise 3
+Write three lambda functions using one, two, and three arguments, respectively.
+
+Exercise 4
+Use map to trim off the junk information from the collection in the following list. Junk information ends with '#'. 
+Output the trimmed sequences on your terminal.
+list_col = ['4_uo#gtagcga', 'i89!!#ctgcag', '|..p++-#atgtaaagct', 'qe342#attgatcgag']
+For example
+If the sequence is: ~492yu_9338*#ttagttagcctagca
+The trimmed sequence should be: ttagttagcctagca
+
+Exercise 5
+Use filter to collect all numbers that are divisible by three in the following list. Then sort the numbers in descending order.
+Output the list on your terminal.
+a = [1, 2, 3, 15, 17, 19, 21, 34, 42]
