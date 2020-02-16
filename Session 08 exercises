@@ -1,0 +1,29 @@
+Exercise 1
+Import the math module and calculate the square root of pi.
+
+Exercise 2
+Use regex to extract the the poly-basic tract in the following two sequences. Output the extracted sequences on your terminal.
+seq1 = 'MDCLLIMGGIDGGHYDGGKKKKKEEKKEEEEKKGGIL'
+seq2 = 'MLIYYGAAIGEEKKEEKKKKEEEEEK'
+
+Exercise 3
+Take a look at 'S08_exercise_3.txt'. Each line has information seperated by '/'. However, the order has been randomized. 
+Write a script that outputs each ID into a new text file. Each ID is made of three alphanumeric characters followed by a dash
+followed by one to three numbers. The entire ID is nested within two asterisks.
+Hint: The new text file should look like
+T68-1
+5RU-32
+Y1L-4
+etc...
+
+Exercise 4
+Each line in 'S08_exercise_3.txt' represents a sample collection. Phentoypes are described as either 'clear', 'cloudy', or 'opaque'. 
+Write a script that outputs a histogram representing the total number of phenotypes on your terminal in descending order.
+Hint: The output should look like
+clear 34
+cloudy 21
+opaque 6
+
+Exercise 5
+Write a script that asks the user to input two integers. The terminal output tells whether the first integer is divisible 
+by the second integer.
