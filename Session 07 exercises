@@ -2,3 +2,18 @@ Exercise 1
 Output on your terminal the most nested element(s).
 list_a = ['agc', ['biological', 'polymers', ('extracted', [11, 54])], 'tcag', 'ccctg']
 
+Exercise 2
+Print out on your terminal a list of unique elements in descending order based on the values in the two dictionaries.
+b = [{'col_1':[45,2,6,12,94,31,16,87,93,10]}, {'col_2':[78,10,88,91,6,32,5,16,17,52,42]}]
+Hint 1: Lists can be added to one another
+Hint 2: Remember sets
+
+Exercise 3
+Open the text document 'S07_exercise_3.txt' and parse it. Each line is a short sequence of three nucleotides. 
+Output on your terminal a histogram indicating the number of nucleotide in descending order.
+For example:
+aca 18
+taa 15
+ccc 9
+atg 2
+
