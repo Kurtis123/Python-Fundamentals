@@ -17,3 +17,28 @@ taa 15
 ccc 9
 atg 2
 
+Exercise 4
+Parse 'S07_exercise_3.txt' and translate the sequence - refer to the codon table. Output on your terminal the peptide.
+codon_table = {
+    'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
+    'ACA':'T', 'ACC':'T', 'ACG':'T', 'ACT':'T',
+    'AAC':'N', 'AAT':'N', 'AAA':'K', 'AAG':'K',
+    'AGC':'S', 'AGT':'S', 'AGA':'R', 'AGG':'R',
+    'CTA':'L', 'CTC':'L', 'CTG':'L', 'CTT':'L',
+    'CCA':'P', 'CCC':'P', 'CCG':'P', 'CCT':'P',
+    'CAC':'H', 'CAT':'H', 'CAA':'Q', 'CAG':'Q',
+    'CGA':'R', 'CGC':'R', 'CGG':'R', 'CGT':'R',
+    'GTA':'V', 'GTC':'V', 'GTG':'V', 'GTT':'V',
+    'GCA':'A', 'GCC':'A', 'GCG':'A', 'GCT':'A',
+    'GAC':'D', 'GAT':'D', 'GAA':'E', 'GAG':'E',
+    'GGA':'G', 'GGC':'G', 'GGG':'G', 'GGT':'G',
+    'TCA':'S', 'TCC':'S', 'TCG':'S', 'TCT':'S',
+    'TTC':'F', 'TTT':'F', 'TTA':'L', 'TTG':'L',
+    'TAC':'Y', 'TAT':'Y', 'TAA':'[STOP]', 'TAG':'[STOP]',
+    'TGC':'C', 'TGT':'C', 'TGA':'[STOP]', 'TGG':'W'}
+ 
+Exercise 5
+Ask the user to input any DNA sequence and output on your terminal the translated sequence.
+Hint 1: Make sure of the codon table
+Hint 2: Iteration can be used with range()
+Hint 3: Take note when the sequence is not divisible by three (try to figure out a way around this)
