@@ -1,2 +1,4 @@
 Exercise 1
 Output on your terminal the most nested element(s).
+list_a = ['agc', ['biological', 'polymers', ('extracted', [11, 54])], 'tcag', 'ccctg']
+
