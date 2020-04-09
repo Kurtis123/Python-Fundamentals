@@ -16,8 +16,8 @@ Hint 1: Try writimg the script in 2 lines (not including the initial Peptide X v
 Hint 2: The str() function converts int to str objects
 
 Exercise 4
-Write a script that creates 'mini' forward and reverse primers for the following DNA sequence. 
-The primers should be ten base pairs in length. Output the primers on your terminal from the 5' to 3' direction.
+Write a script that creates forward and reverse primers for the following DNA sequence. 
+The primers should be twenty base pairs in length. Output the primers on your terminal from the 5' to 3' direction.
 DNA sequence: AGCTCCGGACGTAGCGACTTAAGGGCCTTATATCACGAAAGTTTCGACTAATGCAGGGATCTAG
 Hint 1: Negative numbers are used to count backwards in string slicing 
 For example, -1 denotes the last letter in a string of letters
