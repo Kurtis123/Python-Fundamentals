@@ -12,6 +12,7 @@ Exercise 3
 Write a script that either outputs the number of W and Y residues or A and T bases - depending on the input.
 Input 1: CCDLKIGSWLLWYYDEEKHIISWYWE
 Input 2: AGTCGATGCAGACTGAGACATGCAAGC
+Hint: Use one if/else block
 
 Exercise 4
 Write a script that sorts varying temperatures. It outputs 'boiling' if it's 100C or higher, 'high' if it's 40-99C, 'medium' 
