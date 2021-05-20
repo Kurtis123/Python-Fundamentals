@@ -6,7 +6,7 @@ Exercise 2
 Take the following 'corrupted' DNA sequence and 'fix it'. Output the 'fixed' sequence on your terminal.
 Corrupted DNA sequence: aGccAgTg153aaWQQD45GctATGcaTA
 Hint 1: Use string slicing
-Hint 2: The 'fixed' sequence should look something like: ATGCAGTGGACCAAGACA
+Hint 2: The 'fixed' sequence should only contain the standard nucleotide bases (ATGC)
 
 Exercise 3
 There is an unique amino acid motif, WWCYC, which is important in the function of peptide X.
