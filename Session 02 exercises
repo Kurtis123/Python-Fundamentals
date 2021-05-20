@@ -10,18 +10,21 @@ Hint 1: Use string slicing
 Hint 2: The 'fixed' sequence should only contain non-ambiguous bases
 
 Exercise 3
-There is an unique amino acid motif, WWCYC, which is important in the function of peptide X.
+There is an unique amino acid motif, WWCYC, which is important for the function of Peptide X.
 Output the starting and ending positions of the motif on your terminal.
+
 Peptide X: MYKLIHMLNWNWWLAIEQQALAWWCYCWVMNNDEKCYWPIIYQDDNMLAWLQNQKKLICCITATL
+
 Hint 1: Try writimg the script in 2 lines (not including the initial Peptide X variable assignment)
 Hint 2: The str() function converts int to str objects
 
 Exercise 4
 Write a script that creates 'mini' forward and reverse primers for the following DNA sequence. 
-The primers should be ten base pairs in length. Output the primers on your terminal from the 5' to 3' direction.
+The primers should be ten bases in length. Output the primers on your terminal from the 5' to 3' direction.
+
 DNA sequence: AGCTCCGGACGTAGCGACTTAAGGGCCTTATATCACGAAAGTTTCGACTAATGCAGGGATCTAG
-Hint 1: Negative numbers are used to count backwards in string slicing 
-For example, -1 denotes the last letter in a string of letters
+
+Hint 1: Negative numbers are used to count backwards in string slicing (-1 denotes the last character in a string)
 Hint 2: str[::-1] reverses a string
 Hint 3: Strings are case-sensitive
 
